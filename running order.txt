@@ -1,0 +1,13 @@
+Student name: JingMing Hunag
+run the script in order show in below:
+contact.sql
+gender.sql
+create_personID.sql
+ID_Email.sql
+people_birthday.sql
+people_location.sql
+interest.sql
+person_seek.sql
+create_pro.sql
+create_sta.sql
+

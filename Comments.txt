@@ -1,7 +1,11 @@
-email: not done
-gender: not done
-profession: not done
-location: not done
-status: not done
-interests: not done
-seeking: not done
+email: working
+gender: working
+profession: working, not properly designed
+location: working, not properly designed
+status: working
+interests: working, not properly designed
+seeking: working, not properly designed
+
+birthday: working but unnecessary
+
+Cleanup done, but not running.
